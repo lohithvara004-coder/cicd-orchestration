@@ -1,5 +1,10 @@
 # Live demonstration of automated CI/CD execution
 # Personal repository CI/CD live demonstration
+
+
+
+# Live CI/CD demonstration for internship review
+
 from flask import Flask, jsonify
 
 app = Flask(__name__)
